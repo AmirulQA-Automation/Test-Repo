@@ -1,1 +1,10 @@
-Amirul is Superb
+ Volume in drive C is Windows
+ Volume Serial Number is 78A7-8AC4
+
+ Directory of C:\Users\Amirul\Desktop\Git
+
+23/06/2026  10:31 PM    <DIR>          .
+23/06/2026  10:29 PM    <DIR>          ..
+23/06/2026  10:31 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  371,429,490,688 bytes free
