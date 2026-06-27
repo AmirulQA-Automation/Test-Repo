@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 78A7-8AC4
+
+ Directory of C:\Users\Amirul\Desktop\Git\gitdemo1
+
+27/06/2026  01:07 PM    <DIR>          .
+27/06/2026  01:02 PM    <DIR>          ..
+27/06/2026  01:07 PM                 0 F1.txt
+27/06/2026  01:05 PM               355 M1.txt
+               2 File(s)            355 bytes
+               2 Dir(s)  370,624,491,520 bytes free
